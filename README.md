@@ -1,16 +1,14 @@
-## Hi there 👋
+### ✨ Olá! Eu sou a Miquele, também conhecida como Mique!
 
-<!--
-**MiqueleVieira/MiqueleVieira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- :computer: Programadora FullStack em desenvolvimento;
+- :book: Atualmente aprendendo e criando projetos com HTML, CSS e JavaScript;
+- :rocket: Apaixonada por tecnologia e agora mergulhando de verdade neste universo;
+- :bulb: Busco evoluir constantemente e transformar ideias em soluções reais;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiqueleVieira&layout=compact)
+
+
+[![Miquele Stats](https://github-readme-stats.vercel.app/api?username=MiqueleVieira)](https://github.com/anuraghazra/github-readme-stats)  
+
+
